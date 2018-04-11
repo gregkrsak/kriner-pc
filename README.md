@@ -1,6 +1,10 @@
 Kriner Power Converter
 ======================
 
+
+[![PTH Soldering](https://img.shields.io/badge/skills%20required-pth%20soldering-blue.svg)](https://github.com/gregkrsak/kriner-pc/blob/master/images/kriner-pc-board.png)
+
+
 Images: [SCHEMATIC](https://raw.githubusercontent.com/gregkrsak/kriner-pc/master/images/kriner-pc-schmatic.png) | [BOARD](https://raw.githubusercontent.com/gregkrsak/kriner-pc/master/images/kriner-pc-board.png)
 
 
