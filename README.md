@@ -146,7 +146,7 @@ kriner-pc/
 
 The Kriner Power Converter is an open-source hardware design rather than a fully characterized commercial power module.
 
-The circuit has been tested from 5–12 VDC has the potential to be used with loads up to 15 A with forced-air cooling. That figure should not be interpreted as a guaranteed continuous-current rating under arbitrary conditions.
+The circuit has been tested from 5–12 VDC and has the potential to be used with loads up to 15 A with forced-air cooling. That figure should not be interpreted as a guaranteed continuous-current rating under arbitrary conditions.
 
 Actual current capability depends on factors including:
 
